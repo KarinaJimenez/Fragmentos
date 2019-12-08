@@ -1,0 +1,4 @@
+#Wed Oct 16 11:35:17 CDT 2019
+base.0=C\:\\Users\\Karina Her Jim\\Documents\\7 semestre\\Android\\Fragmentos\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
